@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /about
+
+- title: History
+  url: /history
+
+- title: Members
+  url: /members
+
+- title: Updates
+  url: /updates
+
+- title: Documentation
+  url: /documentation
