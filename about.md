@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Home
+title: About
+permalink: /about.html
 ---
 
-# Home
+# About
 This site is working
